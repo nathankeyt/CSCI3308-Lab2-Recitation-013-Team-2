@@ -1,5 +1,7 @@
 # CSCI3308-Lab2-Recitation-013-Team-2
 
+Maxwell Prue
+
 Recitation-013-Team-2
 
 Name: Nathan Keyt, Username: nathankeyt
