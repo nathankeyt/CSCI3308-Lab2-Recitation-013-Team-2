@@ -1,10 +1,8 @@
 # CSCI3308-Lab2-Recitation-013-Team-2
 
-Edits Made To This Branch
+Evan Z
 
 Recitation-013-Team-2
-
-Branch: Evan_Z
 
 Name: Nathan Keyt, Username: nathankeyt
 
